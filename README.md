@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ebamgs
+- 👋 Hi, I’m Eniola Bamgbopa (Ebamgs)
 - 👀 I’m interested in Data science and Data analysis
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on 
