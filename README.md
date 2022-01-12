@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eniola Bamgbopa (Ebamgs)
-- 👀 I’m interested in Data science and Data analysis
-- 🌱 I’m currently learning R programming
+- 👀 I’m interested in Web Development and Data analysis
+- 🌱 I’m currently learning R programming and Python
 - 💞️ I’m looking to collaborate on 
 - 📫 Contacts: email; ennybamgs@gmail.com
           Phone num.; +2349058186058
