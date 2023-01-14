@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eniola Bamgbopa (Ebamgs)
-- 👀 I’m interested in Web Development and Data analysis
-- 🌱 I’m currently learning R programming and Python
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in everything information security especially digital forensics and Incident response.
+- 🌱 I’m currently learning Python, bash and also preparing to write my Network+ and Security+ Exams
+- 💞️ I’m looking to collaborate on hands-on projects ranging from penetration testing, vulnerability assessments and siem deployments.
 - 📫 Contacts: email; ennybamgs@gmail.com
           Phone num.; +2349058186058
 
